@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![GerLC](GerLC.gif)
+![GerLC](/gif/GerLC.gif)
 
 
 <!--
