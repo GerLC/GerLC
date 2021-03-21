@@ -19,7 +19,7 @@
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg?raw=true' alt='github' height='40'>
   </a>
    <a href="https://gitlab.com/GerLC">
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg?raw=true' alt='github' height='40'>
+<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg?raw=true' alt='gitlab' height='40'>
   </a>
  <a href="https://dev.to/GerLC">
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg?raw=true' alt='dev' height='40'>
