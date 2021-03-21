@@ -1,8 +1,9 @@
 ### Hi there 👋 ✨ ✈️ ✨ 你好!
 
+![Header](../assets/assets/gif/header.gif?raw=true) 
+
 &nbsp;
-🛫
-**About me:**
+🛫**About me:**
 
 <img width="42%" align="right" alt="Github" src="https://media.giphy.com/media/l3E6IlIx5f9nVjd84/giphy.gif?raw=true">
 
@@ -31,7 +32,6 @@
   </a>
 </p>
 
-
 **Languages and Tools** 🛹 
 
 <p align="center">
@@ -47,12 +47,12 @@
 </p>
 
 &nbsp;
-🛬
-**Mis Stats** 📝 
+
+🛬**Mis Stats** 📝 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=GerLC&show_icons=true&theme=synthwave&border_radius=20%&count_private=true&locale=es&raw=true"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerLC&layout=compact&theme=synthwave&&locale=es&border_radius=20%&count_private=true&raw=true"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerLC&layout=compact&theme=synthwave&&locale=es&border_radius=20%&count_private=true&raw=true"/>
 </a>
