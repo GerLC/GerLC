@@ -1,11 +1,18 @@
-# Hi there 👋 ✨ ✈️ ✨ 你好! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif?raw=true" width="25px">
-<!--
- ![Header](../assets/assets/gif/header.gif?raw=true) -->
+# Hi there 👋  ✈️  你好! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif?raw=true" width="25px">
 
+![Header](../assets/assets/gif/header.gif?raw=true) 
+ 
+<hr>
+
+## 🛫**Quote of the day**
+
+<p align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="Quote Card" />
+ 
 &nbsp;
-## 🛫**About me:**
+## **About me**
 
-<img width="35%" align="right" alt="Github" src="https://media.giphy.com/media/l3E6IlIx5f9nVjd84/giphy.gif?raw=true">
+<img width="36%" align="right" alt="Github" src="https://media.giphy.com/media/l3E6IlIx5f9nVjd84/giphy.gif?raw=true&border=none">
 
 - 👨🏽‍💻 I’m currently working on an intership.
 - 🌱 I’m currently learning Java, Vaadin Framework and DDD.
@@ -33,10 +40,12 @@
   </a>
 </p>
 
- &nbsp;
- 
+&nbsp;
+<br>
+
 ## **Languages and Tools** 🛹 
 
+<br>
 <p align="center">
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
@@ -48,7 +57,7 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>  
 </p>
 
-&nbsp;
+<br>
 
 ## 🛬**Mis Stats** 📝 
 
@@ -56,15 +65,8 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api?username=GerLC&show_icons=true&theme=synthwave&border_radius=10%&count_private=true&locale=es&raw=true"/>
 </a>
-
-<p align="center">
 <img width="50%" align="left" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg?raw=true">
+&nbsp;
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerLC&layout=compact&theme=synthwave&&locale=es&border_radius=10%&count_private=true&raw=true"/>
 </a>
- 
- &nbsp;
- 
- ## **Joke** 
- <img src="https://readme-jokes.vercel.app/api?theme=synthwave&border_radius=10%" alt="Jokes Card" />
-
