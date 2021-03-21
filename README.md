@@ -5,7 +5,7 @@
 &nbsp;
 ## 🛫**About me:**
 
-<img width="42%" align="right" alt="Github" src="https://media.giphy.com/media/l3E6IlIx5f9nVjd84/giphy.gif?raw=true">
+<img width="35%" align="right" alt="Github" src="https://media.giphy.com/media/l3E6IlIx5f9nVjd84/giphy.gif?raw=true">
 
 - 👨🏽‍💻 I’m currently working on an intership.
 - 🌱 I’m currently learning Java, Vaadin Framework and DDD.
@@ -33,6 +33,8 @@
   </a>
 </p>
 
+ &nbsp;
+ 
 ## **Languages and Tools** 🛹 
 
 <p align="center">
@@ -40,9 +42,8 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-    <br/>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-    <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>  
 </p>
@@ -53,12 +54,17 @@
 
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=GerLC&show_icons=true&theme=synthwave&border_radius=20%&count_private=true&locale=es&raw=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GerLC&show_icons=true&theme=synthwave&border_radius=10%&count_private=true&locale=es&raw=true"/>
 </a>
 
 <p align="center">
 <img width="50%" align="left" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg?raw=true">
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerLC&layout=compact&theme=synthwave&&locale=es&border_radius=20%&count_private=true&raw=true"/>
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerLC&layout=compact&theme=synthwave&&locale=es&border_radius=10%&count_private=true&raw=true"/>
 </a>
+ 
+ &nbsp;
+ 
+ ## **Joke** 
+ <img src="https://readme-jokes.vercel.app/api?theme=synthwave&border_radius=10%" alt="Jokes Card" />
 
