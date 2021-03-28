@@ -14,11 +14,11 @@
 
 <img width="36%" align="right" alt="Github" src="https://media.giphy.com/media/l3E6IlIx5f9nVjd84/giphy.gif?raw=true&border=none">
 
-- 👨🏽‍💻 I’m currently working on an intership.
+- 👨🏽‍💻 I’m currently on an intership.
 - 🌱 I’m currently learning Java, Vaadin Framework and DDD.
 - 👯 I’m looking to collaborate with everyone.
 - 🤔 Ask me about anything.
-- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Informatic Eenginering at the UCAB.
+- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Informatic Engineering at the UCAB.
 - ⚡️ Fun fact: No se.
 - 📫 How to reach me:
 
