@@ -22,21 +22,22 @@
 - 📫 How to reach me:
 
 <p align="center">
-  <a href="https://github.com/GerLC">
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg?raw=true' alt='github' height='40'>
-  </a>
+<a href = 'https://www.github.com/GerLC'> <img width = '32px' height='40' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
    <a href="https://gitlab.com/GerLC">
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg?raw=true' alt='gitlab' height='40'>
   </a>
  <a href="https://dev.to/GerLC">
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg?raw=true' alt='dev' height='40'>
   </a>
-   <a href="https://www.linkedin.com/in/germán-li-b226661a0/">
-<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg?raw=true' alt='linkedin' height='40'>
-  </a>
+ <a href = 'https://www.linkedin.com/in/germán-li-b226661a0'>
+  <img width = '32px' height='40' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
+ </a> 
  <a href="mailto:gerstructura@gmail.com">
 <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg?raw=true' alt='gmail' height='40'>
   </a>
+ 
+
+
 </p>
 
 &nbsp;
@@ -55,17 +56,15 @@
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>  
 </p>
-
 <br>
 
 ## 🛬**Mis Stats** 📝 
 
-<p align="center">
+<img width="44%" align="right" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg?raw=true">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=GerLC&show_icons=true&theme=synthwave&border_radius=10%&count_private=true&locale=es&raw=true"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=GerLC&show_icons=true&theme=synthwave&border_radius=10%&count_private=true&locale=es&raw=true"/>
 </a>
-<img width="50%" align="left" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg?raw=true">
 &nbsp;
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerLC&layout=compact&theme=synthwave&&locale=es&border_radius=10%&count_private=true&raw=true"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerLC&layout=compact&theme=synthwave&&locale=es&border_radius=10%&count_private=true&raw=true"/>
 </a>
