@@ -2,14 +2,6 @@
 
 ![Header](../assets/assets/gif/header.gif?raw=true) 
 
-<hr>
-
-## 🛫**Quote of the day**
-
-<p align="center">
- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="Quote Card" align="center"/>
-</p>
-
 ## **About me**
 
 <img width="36%" align="right" alt="Github" src="https://media.giphy.com/media/l3E6IlIx5f9nVjd84/giphy.gif?raw=true&border=none">
@@ -44,7 +36,7 @@
 
 <br>
 
-## **Languages and Tools** 🛹 
+## 🛫 **Languages and Tools** 🛹 
 
 <br>
 <p align="center">
@@ -59,14 +51,22 @@
 </p>
 <br>
 
-## 🛬**Mis Stats** 📝 
+## **Mis Stats** 📝 
+<p align="center">
+ <img src="https://github-readme-stats.vercel.app/api?username=GerLC&show_icons=true&theme=synthwave&border_radius=10%&count_private=true&locale=es&raw=true"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerLC&layout=compact&theme=synthwave&&locale=es&border_radius=10%&count_private=true&raw=true"/>
+</p>
 
-<a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=GerLC&show_icons=true&theme=synthwave&border_radius=10%&count_private=true&locale=es&raw=true"/>
-</a>
-<br>
-<a>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerLC&layout=compact&theme=synthwave&&locale=es&border_radius=10%&count_private=true&raw=true"/>
-</a>
-<img width="44%" align="right" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg?raw=true">
+<hr>
 
+## 🛬**Quote of the day**
+
+<p align="center">
+ <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="Quote Card"/>
+ <img width="40%" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg?raw=true">
+</p>
+<center>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8718D6&center=true&lines=Thank+you+for+visiting%2C;see+you+next+time)](https://git.io/typing-svg)
+ 
+</center>
