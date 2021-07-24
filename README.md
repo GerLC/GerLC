@@ -2,7 +2,7 @@
 
 ![Header](../assets/assets/gif/header.gif?raw=true) 
 
-## **About me**
+## 🛫 **About me**
 
 <img width="36%" align="right" alt="Github" src="https://media.giphy.com/media/l3E6IlIx5f9nVjd84/giphy.gif?raw=true&border=none">
 
@@ -36,7 +36,7 @@
 
 <br>
 
-## 🛫 **Languages and Tools** 🛹 
+## **Languages and Tools** 🛹 
 
 <br>
 <p align="center">
@@ -59,14 +59,11 @@
 
 <hr>
 
-## 🛬**Quote of the day**
+## **Quote of the day** 🛬
 
 <p align="center">
  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="Quote Card"/>
  <img width="40%" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg?raw=true">
 </p>
-<center>
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8718D6&center=true&lines=Thank+you+for+visiting%2C;see+you+next+time)](https://git.io/typing-svg)
- 
-</center>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8718D6&center=true&vCenter=true&width=1000&height=10&lines=......................................................................................................)](https://git.io/typing-svg)
