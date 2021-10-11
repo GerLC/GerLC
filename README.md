@@ -4,7 +4,9 @@
 
 ## 🛫 **About me**
 
-<img width="36%" align="right" alt="Github" src="https://media.giphy.com/media/l3E6IlIx5f9nVjd84/giphy.gif?raw=true&border=none">
+<!-- <img width="36%" align="right" alt="Github" src="https://media.giphy.com/media/l3E6IlIx5f9nVjd84/giphy.gif?raw=true&border=none"> -->
+<a href="https://storyset.com/people"><img width="36%" align="right" alt="Airplane fliying in world" src="../assets/assets/gif/flying-around-the-world-animate.svg"></a>
+
 
 <pre>
 - 🌱👨🏽‍💻 I’m currently learning.
