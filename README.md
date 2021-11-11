@@ -64,7 +64,8 @@
 ## **Quote of the day** 🛬
 
 <p align="center">
- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="Quote Card"/>
+<!--  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="Quote Card"/> -->
+ <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=socrates" alt="Quote Card"/>
  <img width="40%" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg?raw=true">
 </p>
 
