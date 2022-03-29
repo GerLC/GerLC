@@ -9,7 +9,7 @@
 
 
 <pre>
-- 🌱👨🏽‍💻 I’m currently learning.
+- 🌱👨🏽‍💻 I’m currently learning...
 - 👯 I’m looking to collaborate with everyone.
 - 🤔 Ask me about anything.
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Informatic Engineering at the UCAB.
