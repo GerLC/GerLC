@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate with everyone.
 - 🤔 Ask me about anything.
 - 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Informatic Engineering at the UCAB.
-- ⚡️ Fun fact: aaaaaaaaaaa
+- ⚡️ Fun fact: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
 - 📫 How to reach me:
 </pre>
 
