@@ -56,7 +56,7 @@
 ## **Mis Stats** 📝 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=GerLC&show_icons=true&theme=synthwave&border_radius=10%&count_private=true&locale=es&raw=true"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerLC&layout=compact&theme=synthwave&&locale=es&border_radius=10%&count_private=true&raw=true"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerLC&layout=compact&theme=synthwave&&locale=en&border_radius=10%&count_private=true&raw=true"/>
 </p>
 
 <hr>
