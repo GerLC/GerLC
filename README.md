@@ -1,22 +1,11 @@
-# Hi there 👋  ✈️  你好! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif?raw=true" width="25px">
+<div align="center">
 
-![Header](../assets/assets/gif/header.gif?raw=true) 
+# Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif?raw=true" width="25px">  你好!
 
-## 🛫 **About me**
+I’m GerLC.  
+This space is just a splash of color, code, and creativity.  
 
-<!-- <img width="36%" align="right" alt="Github" src="https://media.giphy.com/media/l3E6IlIx5f9nVjd84/giphy.gif?raw=true&border=none"> -->
-<a href="https://storyset.com/people"><img width="36%" align="right" alt="Airplane fliying in world" src="../assets/assets/gif/flying-around-the-world-animate.svg"></a>
-
-
-<pre>
-- 🌱👨🏽‍💻 I’m currently learning...
-- 👯 I’m looking to collaborate with everyone.
-- 🤔 Ask me about anything.
-- 🎓 𝚂𝚝𝚞𝚍𝚢𝚒𝚗𝚐 Informatic Engineering at the UCAB.
-- ⚡️ Fun fact: Nooooooo 2023!
-- 📫 How to reach me:
-</pre>
-
+</div>
 
 <p align="center">
  <a href = 'https://www.github.com/GerLC'> 
@@ -34,34 +23,6 @@
   <img src="https://img.icons8.com/clouds/48/000000/gmail-new.png?raw=true" alt='gmail' height='40'/>
  </a>
 </p>
-
-
-<br>
-
-## **Languages and Tools** 🛹 
-
-<br>
-<p align="center">
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>  
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
-</p>
-<br>
-
-## **Mis Stats** 📝 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=GerLC&show_icons=true&theme=synthwave&border_radius=10%&count_private=true&locale=es&raw=true"/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GerLC&layout=compact&theme=synthwave&locale=es&border_radius=10%&count_private=true&raw=true"/>
-</p>
-
-<hr>
-
-## **Quote of the day** 🛬
 
 <p align="center">
  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal" alt="Quote Card"/>
