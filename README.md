@@ -2,7 +2,6 @@
 
 # Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif?raw=true" width="25px">  你好!
 
-I’m GerLC.  
 This space is just a splash of color, code, and creativity.  
 
 </div>
