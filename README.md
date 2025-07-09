@@ -25,7 +25,7 @@ This space is just a splash of color, code, and creativity.
 </p>
 
 <p align="center">
- <img src="https://quotes-github-readme.vercel.app/api?type=horizontal?theme=catppuccin_mocha" alt="Quote Card"/>
+ <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" alt="Quote Card"/>
 <!--  <img src="https://github-readme-quotes.herokuapp.com/quote?theme=dark&layout=socrates" alt="Quote Card"/> -->
  <img width="40%" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg?raw=true">
 </p>
