@@ -4,6 +4,8 @@
 
 This space is just a splash of color, code, and creativity.  
 
+![hi](https://github.com/user-attachments/assets/bb294c37-3384-41ed-87dc-f5049d58175b)
+
 </div>
 
 <p align="center">
