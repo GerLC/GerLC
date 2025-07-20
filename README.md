@@ -2,15 +2,11 @@
 
 # Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif?raw=true" width="25px">  你好!
 
-This space is just a splash of color, code, and creativity.  
-
 ![hi](https://github.com/user-attachments/assets/bb294c37-3384-41ed-87dc-f5049d58175b)
 
 </div>
 
 <p align="center">
- <a href = 'https://www.github.com/GerLC'> 
-  <img width = '32px' height='40' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
  <a href="https://gitlab.com/GerLC">
   <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt='gitlab' height='40'>
  </a>
