@@ -6,21 +6,6 @@
 
 </div>
 
-<p align="center">
- <a href="https://gitlab.com/GerLC">
-  <img src="https://img.icons8.com/color/48/000000/gitlab.png" alt='gitlab' height='40'>
- </a>
- <a href="https://dev.to/GerLC">
-  <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg?raw=true' alt='dev' height='40'/>
- </a>
- <a href = 'https://www.linkedin.com/in/germán-li-b226661a0'>
-  <img width = '32px' height='40' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/>
- </a> 
- <a href="mailto:gerstructura@gmail.com">
-  <img src="https://img.icons8.com/clouds/48/000000/gmail-new.png?raw=true" alt='gmail' height='40'/>
- </a>
-</p>
-
 <div align="center">
  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" alt="Quote Card"/>
 </div>
