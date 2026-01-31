@@ -2,15 +2,13 @@
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha" alt="Quote Card" width="450px" />
 
-<kbd>──────────────────────────────────────────</kbd>
-
 ### Technical Stack 🛠
 **Programming Languages:** TypeScript • JavaScript • SQL • Python  
 **Frameworks & Libraries:** NestJS • Angular • Ionic • React • Next.js • Node.js  
 **Developer Tools:** AWS • Firebase • Docker • Postgres • Git • OpenTofu  
 
 ### Focus 🎯
-* 🔭 Currently working on: [Project Name or "Internal Tools"]
+* 🔭 Currently working on: Portfolio.
 * 🌱 Deep diving into: **OpenTofu** and Cloud Infrastructure
 * 🚀 Goals: Building robust backend systems and automated deployments
 
