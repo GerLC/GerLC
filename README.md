@@ -16,4 +16,4 @@
 
 #### Let's Connect 🤝
 
-[LinkedIn](https://www.linkedin.com/in/germ%C3%A1n-li-b226661a0/) • [Portfolio (Coming Soon)](#) • [Email](mailto:gerstructura@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/germ%C3%A1n-li-b226661a0/) • [Portfolio (Coming Soon Probably)](#) • [Email](mailto:gerstructura@gmail.com)
