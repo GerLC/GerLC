@@ -8,7 +8,7 @@
 **Developer Tools** | AWS • Firebase • Docker • Postgres • Git • OpenTofu  
 
 ### Focus 🎯
-* 🔭 Currently working on: Portfolio.
+* 🔭 Currently working on: Portfolio and others projects.
 * 🌱 Deep diving into: **OpenTofu** and Cloud Infrastructure
 * 🚀 Goals: Building robust backend systems and automated deployments
 
@@ -16,4 +16,4 @@
 
 #### Let's Connect 🤝
 
-[LinkedIn](https://www.linkedin.com/in/germ%C3%A1n-li-b226661a0/) • [Portfolio (Coming Soon Probably)](#) • [Email](mailto:gerstructura@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/germ%C3%A1n-li-b226661a0/) • [Portfolio (Coming Soon, eventually)](#) • [Email](mailto:gerstructura@gmail.com)
