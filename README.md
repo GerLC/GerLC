@@ -5,11 +5,11 @@
 ### Technical Stack 🛠
 **Programming Languages** | TypeScript • JavaScript • SQL • Python  
 **Frameworks & Libraries** | NestJS • Angular • Ionic • React • Next.js • Node.js  
-**Developer Tools** | AWS • Firebase • Docker • Postgres • Git • OpenTofu  
+**Developer Tools** | AWS • Firebase • Docker • Postgres • Git  
 
 ### Focus 🎯
 * 🔭 Currently working on: Portfolio and others projects.
-* 🌱 Deep diving into: **OpenTofu** and Cloud Infrastructure
+* 🌱 Deep diving into: **OpenTofu**, Go and Cloud Infrastructure
 * 🚀 Goals: Building robust backend systems and automated deployments
 
 ---
