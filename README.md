@@ -9,7 +9,7 @@
 
 ### Focus 🎯
 * 🔭 Currently working on: Portfolio and others projects.
-* 🌱 Deep diving into: Go, Cloud Infrastructure and AI.
+* 🌱 Deep diving into: Cloud Infrastructure and AI usage.
 * 🚀 Goals: Building robust backend systems and automated deployments
 
 ---
