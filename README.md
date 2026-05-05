@@ -1,4 +1,4 @@
-# Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif?raw=true" width="25px">  你好!
+# Hello there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif?raw=true" width="25px"> 你好!
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&backgroundColor=fffcf2&quoteColor=403d39&authorColor=918d8a&symbolColor=ccc5b9" alt="Quote Card" width="450px" />
 
@@ -16,4 +16,4 @@
 
 #### Let's Connect 🤝
 
-[LinkedIn](https://www.linkedin.com/in/germ%C3%A1n-li-b226661a0/) • [Portfolio (Coming soon, eventually)](#) • [Email](mailto:gerstructura@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/germ%C3%A1n-li-b226661a0/) • [Portfolio (Coming soon, eventually)](#) • [Email](mailto:gerstructura+github@gmail.com)
