@@ -5,7 +5,7 @@
 ### Technical Stack 🛠
 **Programming Languages** | TypeScript • JavaScript • SQL • Python  
 **Frameworks & Libraries** | NestJS • Angular • Ionic • React • Next.js • Node.js  
-**Developer Tools** | AWS • Firebase • Docker • Postgres • Git  
+**Developer Tools** | AWS • Firebase • Docker • Postgres • Mysql • Git  
 
 ### Focus 🎯
 * 🔭 Currently working on: Portfolio and others projects.
