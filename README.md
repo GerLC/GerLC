@@ -8,8 +8,8 @@
 **Developer Tools** | AWS • Firebase • Docker • Postgres • Mysql • Git  
 
 ### Focus 🎯
-* 🔭 Currently working on: Portfolio and others projects.
-* 🌱 Deep diving into: Cloud Infrastructure and AI usage.
+* 🔭 Currently working on: Work.
+* 🌱 Deep diving into: AI usage (Agents, Skills, Workflows...).
 * 🚀 Goals: Building robust systems and automated deployments.
 
 ---
